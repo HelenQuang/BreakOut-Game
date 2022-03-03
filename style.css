@@ -16,7 +16,7 @@ body {
   justify-content: center;
   font-family: "Dosis", sans-serif;
   min-height: 100vh;
-  margin: 0;
+  overflow: hidden;
 }
 
 h1 {
