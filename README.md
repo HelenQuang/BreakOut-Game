@@ -9,5 +9,12 @@ Game where you control a paddle with the arrow keys to bounce a ball up and brea
 - Add animation with requestAnimationFrame(cb)
 - Move paddle on arrow key press
 - Add collision detection
-- Keep score
+- Keep score and highscore to local storage
 - Add rules button with slider
+
+## DEMO Link:
+https://break-out-game-helen.netlify.app/
+
+![Screenshot 2022-03-03 184845](https://user-images.githubusercontent.com/94285120/156611637-2c289938-5071-48bb-aebf-5edcdd3c8989.png)
+![Screenshot 2022-03-02 225607](https://user-images.githubusercontent.com/94285120/156611262-8033681f-8f88-4f46-a71b-518b65579736.png)
+![Screenshot 2022-03-02 225656](https://user-images.githubusercontent.com/94285120/156611274-993d7ae7-e57c-4551-bd4c-b559495d874e.png)
